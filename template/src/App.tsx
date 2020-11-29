@@ -1,5 +1,5 @@
 import React from 'react';
-import {H1, H2} from './components/Headings/index';
+import {H1, H2} from './components/Headers/index';
 
 const App = () => {
   return (
